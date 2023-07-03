@@ -1,4 +1,4 @@
-# :robot: SalesGPT - Your Context-Aware AI Sales Assistant
+# :robot: Private SalesGPT - Your Context-Aware AI Sales Assistant
 
 This repo demonstrates an implementation of a **context-aware** AI Sales Assistant using LLMs.
 
@@ -9,8 +9,6 @@ We leverage the [`langchain`](https://github.com/hwchase17/langchain) library in
 ## Our Vision: Build the Best Open-Source Autonomous Sales Agent
 
 We are building SalesGPT to power your best Autonomous Sales Agents. Hence, we would love to learn more about use cases you are building towards which will fuel SalesGPT development roadmap.
-
-## :red_circle: Latest News
 
 ## Quickstart
 
